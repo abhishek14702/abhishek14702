@@ -27,11 +27,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 👨🏽‍💻 I’m currently a CSE Undergrad student at MUJ
 - 🌏 My Portfolio [Website](https://abhi-one.vercel.app)
 - 🌱 I’m currently exploring Data Structures and Algorithm in c++
-- 🛠️ I'm currently working on ShopEase ( E-Commerce Website)
+- 🛠️ I'm currently working on ShopEase ( E-Commerce Website) and MedNet (Medical consultation platform)
 - 💻 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [abhishek14702@gmail.com](mailto:jabhishek14702@gmail.com).
--  :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1DTwblicTNDVlXN4DNvmv1xQtE_lZ4Pg0/view?usp=sharing).
+-  :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://abhi-one.vercel.app/assets/resume/Abhishek_Bishnoi.pdf).
 
 
 ## Github Stats
